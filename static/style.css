@@ -178,6 +178,7 @@ input:focus{
 
 .container-msg:hover{
     cursor:pointer;
+    background: #EBEBEB;
 }
 
 h1{
