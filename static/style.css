@@ -171,13 +171,16 @@ input:focus{
 
 .container-msg{
     border-bottom: 1px solid #ccc !important;
-    height: 1.2em;
+    height: 70px;
     flex-grow: 0;
     flex-shrink: 0;
 }
 
 .container-msg:hover{
     cursor:pointer;
+    background: #F5F5F5;
+}
+.container-msg:focus{
     background: #EBEBEB;
 }
 
